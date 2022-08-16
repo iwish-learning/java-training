@@ -10,3 +10,4 @@ https://openjdk.java.net/
 https://adoptopenjdk.net/releases.html
 
 # Difference between openjdk and adoptopenjdk
+Actually, it's no difference.
